@@ -1,4 +1,4 @@
-# Complete Python Tutorials
+# Complete Python Tutorials on YouTube Channel
 Syllabus: https://youtu.be/mY59z-hPFH0?si=AIah0oCa_ZbiK9wh
 
 Module-1: Overview of Python : https://youtu.be/Qd1kYu6Ii80?si=6Sgq9IQj493BNqYQ
@@ -7,7 +7,7 @@ Module-2: Software Installation : https://youtu.be/WqGgImzX4pY?si=IvIL8yb4RjlDgn
 
 Module-3: Basics of Python
 
-  Part-1:  https://youtu.be/Pmv1eOEpc_c?si=Dq8YiuGiUU7WWYZ0
+  Video-3.1:  https://youtu.be/Pmv1eOEpc_c?si=Dq8YiuGiUU7WWYZ0
 
 Module-4: Data Types - Coming soon
 
