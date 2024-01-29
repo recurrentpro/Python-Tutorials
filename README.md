@@ -7,7 +7,11 @@ Module-2: Software Installation : https://youtu.be/WqGgImzX4pY?si=IvIL8yb4RjlDgn
 
 Module-3: Basics of Python
 
-  Video-3.1:  https://youtu.be/Pmv1eOEpc_c?si=Dq8YiuGiUU7WWYZ0
+  Video-3.1: https://youtu.be/Pmv1eOEpc_c?si=Dq8YiuGiUU7WWYZ0
+  
+  Video-3.2: https://youtu.be/PWRGdFEr_AY?si=_Yn1F2cfAoPGKaum
+
+  Video-3.3: https://youtu.be/8Puc-w1okvI?si=y_5c835JR_m09eQV
 
 Module-4: Data Types - Coming soon
 
