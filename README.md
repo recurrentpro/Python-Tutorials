@@ -33,19 +33,28 @@ Module-5: Conditional Statement & Loop
 
   Video-5.2: https://youtu.be/60cbXtojRs8?si=cQc3CLYGAdmo7hNL
 
-Module-6: Function - Coming soon
+Module-6: Function
 
-Module-7: File Handling - Coming soon
+   Video-6.1: https://youtu.be/EmGOSOkFwzM?si=90ZBZf-2l7McdeqW
+
+   Video-6.2: https://youtu.be/MzwU8w3f53A?si=CwRkQTr2ODQcNZDY
+
+Module-7: Package & Module
+   Video-7.1: https://youtu.be/a7ncc0lQU7A?si=lDpPQIzg8oA-TjgI
+
+   Video-7.2: 
 
 Module-8: Exception Handling - Coming soon
 
-Module-9: Regular Expression - Coming soon
+Module-9: File Handling - Coming Soon
 
-Module-10: Object Oriented Programming Language - Coming soon
+Module-10: Regular Expression - Coming soon
 
-Module-11: Multithreading - Coming soon
+Module-11: Object Oriented Programming Language - Coming soon
 
-Module-12: Project - Coming soon
+Module-13: Multithreading - Coming soon
+
+Module-14: Project - Coming soon
 
 
 
